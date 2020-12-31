@@ -1,2 +1,6 @@
 # shirtcreator
-This is a demo project
+Clone project.
+
+Run "Pod install"
+
+Open .workspace and Run.
